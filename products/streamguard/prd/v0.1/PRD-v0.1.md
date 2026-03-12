@@ -553,19 +553,6 @@ services:
 | CBR/VBR | 恒定/可变码率 |
 | On-Premise | 私有化部署，软件部署在客户自有服务器 |
 
-### 10.2 参考文档
-- 博汇科技产品手册
-- Cinegy Multiviewer 24.2 Release Notes
-- FFmpeg Protocol Documentation
-- HLS RFC 8216
-- SRT Technical Specification
-- **ITU-R BS.1770-3** (响度标准)
-- **EBU R-128** (响度规范)
-- **ETSI TR-101-290** (TS分析标准)
-
 ---
 
-**文档结束**  
-*Backlog文档: https://feishu.cn/docx/Mh86dlmRDoq98hx37X1cmreenwf*  
-*竞品分析: workspace_steve/products/streamguard/competitor-analysis/DEEP-DIVE-TOP3-2026-03-12.md*  
-*最后同步: 2026-03-12*
+**文档结束**
