@@ -565,13 +565,7 @@ services:
 
 ---
 
-**文档结束**
-
----
-
-*本文档由 AI 助手 Steve 生成并同步*  
-*本地路径: workspace_steve/products/streamguard/prd/v0.1/PRD-v0.1.md*  
-*飞书文档: https://feishu.cn/docx/CRiod6BSxo1C6lxLY60c4XYTnOb*  
+**文档结束**  
 *Backlog文档: https://feishu.cn/docx/Mh86dlmRDoq98hx37X1cmreenwf*  
 *竞品分析: workspace_steve/products/streamguard/competitor-analysis/DEEP-DIVE-TOP3-2026-03-12.md*  
 *最后同步: 2026-03-12*
